@@ -1,4 +1,4 @@
-module.exports = {
+export default {TransformStreamDefaultController
     "env": {
         "browser": true,
         "es6": true,
